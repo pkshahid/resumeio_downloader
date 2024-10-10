@@ -4,13 +4,13 @@ Python program to download resume as PDF from Resume.io
 
 # Setup
 
-1. Create a python virtual environment
+1. Create a python virtual environment <br>
     ` virtualenv venv `
 
-2. Activate virtual environment
+2. Activate virtual environment <br>
     ` . venv/bin/activate `
 
-3. Install Requirements
+3. Install Requirements <br>
     ` pip install requirments.txt `
 
 # Parameters
@@ -22,5 +22,5 @@ Python program to download resume as PDF from Resume.io
 
 # Usage
 
-Run the following python command in shell
+Run the following python command in shell <br>
     ` python main.py --sid <YOUR RESUME.IO SECURITY ID> --url <RESUME URL> `
